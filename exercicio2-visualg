@@ -1,0 +1,8 @@
+Algoritmo "2"
+Var
+   nome: caractere
+Inicio
+      Escreva ("Qual o seu nome: ")
+      Leia (nome)
+      Escreval ("Olá ",nome,", seja bem vindo ao meu algoritmo!")
+Fimalgoritmo
