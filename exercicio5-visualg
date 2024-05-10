@@ -1,0 +1,17 @@
+Algoritmo "5"
+Var
+   n1,n2,m: real
+Inicio
+      Escreval ("----------------------------")
+      Escreval ("      ESCOLINHA DO DEV      ")
+      Escreval ("----------------------------")
+      Escreva ("Nota 1: ")
+      Leia (n1)
+      Escreva ("Nota 2: ")
+      Leia (n2)
+      m <- (n1+n2)/2
+      Escreval ("--------------------------")
+      Escreval ("      MÉDIA:",m)
+      Escreval ("--------------------------")
+      
+Fimalgoritmo
