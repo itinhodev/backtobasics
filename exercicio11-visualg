@@ -1,0 +1,18 @@
+Algoritmo "11"
+Var
+   a,b,c,delta: real
+Inicio
+      Escreval ("---------------------------")
+      Escreval ("           DELTA           ")
+      Escreval ("---------------------------")
+      Escreva ("Qual o valor de A: ")
+      Leia (a)
+      Escreva ("Qual o valor de B: ")
+      Leia (b)
+      Escreva ("Qual o valor de C: ")
+      Leia (c)
+      delta <- b^2-4*a*c
+      Escreval ("---------------------------")
+      Escreval ("O valor de DELTA é:",delta)
+      Escreval ("---------------------------")
+Fimalgoritmo
