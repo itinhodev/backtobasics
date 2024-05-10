@@ -1,0 +1,13 @@
+Algoritmo "7"
+Var
+   n,dobro,terca: real
+Inicio
+      Escreva ("Digite um número: ")
+      Leia (n)
+      dobro <- n*2
+      terca <- n/3
+      Escreval ("---------------------------------")
+      Escreval ("O DOBRO DE",n," É",dobro)
+      Escreval ("A TERÇA PARTE DE",n," É",terca:5:2)
+      Escreval ("---------------------------------")
+Fimalgoritmo
