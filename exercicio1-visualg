@@ -1,0 +1,8 @@
+Algoritmo "1"
+Var
+
+Inicio
+      Escreval ("------------------")
+      Escreval ("-   OLÁ MUNDO!   -")
+      Escreval ("------------------")
+Fimalgoritmo
