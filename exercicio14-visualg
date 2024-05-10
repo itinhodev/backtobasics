@@ -1,0 +1,23 @@
+Algoritmo "14"
+Var
+   dias,diast,km,kmt,total: real
+Inicio
+      Escreval ("------------------------------------")
+      Escreval ("         LOCADORA DO ITINHO         ")
+      Escreval ("------------------------------------")
+      Escreva ("QUANTOS DIAS O VEÍCULO FOI ALUGADO: ")
+      Leia (dias)
+      Escreva ("QUANTOS KM FORAM RODADOS: ")
+      Leia (km)
+      diast <- dias*90
+      kmt <- km*0.20
+      total <- diast+kmt
+      Escreval ("------------------------------------")
+      Escreval ("QUANTIDADE DE DIAS:",dias)
+      Escreval ("VALOR: R$",diast)
+      Escreval ("KM RODADOS:",km)
+      Escreval ("VALOR: R$",kmt)
+      Escreval ("TOTAL A PAGAR: R$",total)
+      Escreval ("------------------------------------")
+
+Fimalgoritmo
