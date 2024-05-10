@@ -1,0 +1,12 @@
+Algoritmo "20"
+Var
+   N: Inteiro
+Inicio
+      Escreva ("Digite um número: ")
+      Leia (N)
+      se (n%2=1) entao
+         Escreva ("O número", n, " é ímpar")
+      senao
+           Escreva ("O número", n, " é par")
+      FimSe
+Fimalgoritmo
