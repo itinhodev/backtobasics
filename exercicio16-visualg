@@ -1,0 +1,20 @@
+Algoritmo "16 DESAFIO"
+Var
+   cigarrosdia,anosfumante,cigarrosano,ano: inteiro
+   diasperdidos: real
+Inicio
+      Escreval ("---------------------------------------")
+      Escreval ("          EXPECTATIVA DE VIDA          ")
+      Escreval ("---------------------------------------")
+      Escreva ("QUANTOS CIGARROS VOCÊ FUMA POR DIA: ")
+      Leia (cigarrosdia)
+      Escreva ("A QUANTOS ANOS VOCÊ FUMA: ")
+      Leia (anosfumante)
+      ano <- anosfumante*365
+      cigarrosano <- cigarrosdia*ano
+      diasperdidos <- (cigarrosano*10)/1440
+      Escreval ("-------------------------------")
+      Escreval ("CIGARROS FUMADOS POR ANO:",cigarrosano)
+      Escreval ("DIAS PERDIDOS DE VIDA: ",diasperdidos:5:1)
+      Escreval ("-------------------------------")
+Fimalgoritmo
