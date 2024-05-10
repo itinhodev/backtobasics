@@ -1,0 +1,23 @@
+Var
+   m,km,hm,dam,dm,cm,mm: real
+Inicio
+      Escreval ("----------------------------------")
+      Escreval ("       CONVERSOR DE MEDIDAS       ")
+      Escreval ("----------------------------------")
+      EscrevaL ("Digite a distância em METROS: ")
+      Leia (m)
+      km <- m/1000
+      hm <- m/100
+      dam <- m/10
+      dm <- m*10
+      cm <- m*100
+      mm <- m*1000
+      Escreval ("---------------------------------")
+      Escreval (km,"Km")
+      Escreval (hm,"Hm")
+      Escreval (dam,"Dam")
+      Escreval (dm,"dm")
+      Escreval (cm,"cm")
+      Escreval (mm,"mm")
+      Escreval ("---------------------------------")
+Fimalgoritmo
