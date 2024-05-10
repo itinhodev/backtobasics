@@ -1,0 +1,25 @@
+Algoritmo "19"
+Var
+   n1,n2,m: real
+Inicio
+      Escreval ("------------------------")
+      Escreval ("     APROVEITAMENTO     ")
+      Escreval ("------------------------")
+      Escreva ("QUAL A PRIMEIRA NOTA: ")
+      Leia (n1)
+      Escreva ("QUAL A SEGUNDA NOTA: ")
+      Leia (n2)
+      m <- (n1+n2)/2
+      Se (m >= 7) entao
+         Escreval ("----------------------")
+         Escreval ("SUA MÉDIA FOI",m)
+         Escreval ("VOCê FOI APROVADO!!!")
+         Escreval ("----------------------")
+      Senao
+           Escreval ("----------------------------")
+           Escreval ("SUA MÉDIA FOI",m)
+           Escreval ("VOCê FOI REPROVADO!!!")
+           Escreval ("----------------------------")
+      FimSe
+
+Fimalgoritmo
