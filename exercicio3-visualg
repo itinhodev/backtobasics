@@ -1,0 +1,15 @@
+Algoritmo "3"
+Var
+   nome: caractere
+   sal: real
+Inicio
+      Escreva ("Qual o nome do funcionário: ")
+      Leia (nome)
+      Escreva ("Qual o salário de ", nome,"? R$")
+      Leia (sal)
+      Escreval ("-------------------------------------------------------")
+      Escreval ("Nome do funcionário: ",nome)
+      Escreval ("Salário: R$",sal)
+      Escreval ("O funcionário ", nome," recebe um salário de R$",sal,"!")
+      Escreval ("-------------------------------------------------------")
+Fimalgoritmo
