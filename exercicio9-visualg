@@ -1,0 +1,14 @@
+Algoritmo "9"
+Var
+   r,d: real
+Inicio
+      Escreval ("---------------------------------")
+      Escreval ("       CONVERSOR DE MOEDAS       ")
+      Escreval ("---------------------------------")
+      Escreva ("Digite seu valor em carteira: R$")
+      Leia (r)
+      d <- r/5.2
+      Escreval ("---------------------------------")
+      Escreval ("VOCÊ PODE COMPRAR",d,"U$")
+      Escreval ("---------------------------------")
+Fimalgoritmo
