@@ -1,0 +1,20 @@
+Algoritmo "18"
+Var
+   idade: inteiro
+Inicio
+      Escreval ("------------------")
+      Escreval ("     ELEIÇÕES     ")
+      Escreval ("------------------")
+      Escreva ("QUAL A SUA IDADE: ")
+      Leia (idade)
+      Se (idade >= 18) entao
+         Escreval ("----------------------")
+         Escreval ("VOCê PODE VOTAR!!!")
+         Escreval ("----------------------")
+      Senao
+           Escreval ("----------------------------")
+           Escreval ("VOCê AINDA NÃO PODE VOTAR!!!")
+           Escreval ("----------------------------")
+      FimSe
+
+Fimalgoritmo
