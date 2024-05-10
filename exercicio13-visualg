@@ -1,0 +1,15 @@
+Algoritmo "13"
+Var
+   sal,promo: real
+Inicio
+      Escreval ("--------------------------------------------")
+      Escreval ("           CALCULADOR DE PROMOÇÃO           ")
+      Escreval ("--------------------------------------------")
+      Escreva ("Qual o salário ATUAL: R$")
+      Leia (sal)
+      promo <- 15/100*sal
+      Escreval ("---------------------------------------------------")
+      Escreval ("O salário de PROMOVIDO será de:R$",sal+promo)
+      Escreval ("---------------------------------------------------")
+
+Fimalgoritmo
