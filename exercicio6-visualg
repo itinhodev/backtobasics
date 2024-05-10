@@ -1,0 +1,13 @@
+Algoritmo "6"
+Var
+   n,ant,suc: inteiro
+Inicio
+      Escreva ("Digite um número: ")
+      Leia (n)
+      ant <- n -1
+      suc <- n + 1
+      Escreval ("--------------------------")
+      Escreval ("O ANTECESSOR DE", n," É",ant)
+      Escreval ("O SUCESSOR DE", n," É",suc)
+      Escreval ("--------------------------")
+Fimalgoritmo
