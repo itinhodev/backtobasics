@@ -1,0 +1,18 @@
+Algoritmo "10"
+Var
+   larg,alt,mq,tinta: real
+Inicio
+      Escreval ("-----------------------")
+      Escreval ("       CONVERSOR       ")
+      Escreval ("-----------------------")
+      Escreva ("Digite a altura(m): ")
+      Leia (alt)
+      Escreva ("Digite a largura(m): ")
+      Leia (larg)
+      mq <- larg*alt
+      tinta <- mq/2
+      Escreval ("---------------------------------------------------")
+      Escreval ("SUA PAREDE TEM",mq," m²")
+      Escreval ("SERÃO NECESSÁRIOS",tinta," L DE TINTA, PARA PINTAR!")
+      Escreval ("---------------------------------------------------")
+Fimalgoritmo
