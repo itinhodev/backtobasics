@@ -1,0 +1,16 @@
+Algoritmo "15"
+Var
+   dias,sal: real
+Inicio
+      Escreval ("------------------------------")
+      Escreval ("         RH DO ITINHO         ")
+      Escreval ("------------------------------")
+      Escreva ("DIAS TRABALHADOS: ")
+      Leia (dias)
+      sal <- dias*200
+      Escreval ("------------------------------------")
+      Escreval ("TRABALHOU",dias," DIAS")
+      Escreval ("SALÁRIO: R$",sal)
+      Escreval ("------------------------------------")
+
+Fimalgoritmo
