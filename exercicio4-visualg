@@ -1,0 +1,13 @@
+Algoritmo "4"
+Var
+   n1,n2,s: inteiro
+Inicio
+      Escreva ("Digite um número: ")
+      Leia (n1)
+      Escreva ("Digite o segundo número: ")
+      Leia (n2)
+      s <- n1+n2
+      Escreval ("-------------------------------------")
+      Escreval ("A SOMA ENTRE",n1," E",n2," É IGUAL A:",s)
+      Escreval ("-------------------------------------")
+Fimalgoritmo
