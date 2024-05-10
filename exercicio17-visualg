@@ -1,0 +1,22 @@
+Algoritmo "17"
+Var
+   vel,multa: real
+Inicio
+      Escreval ("---------------")
+      Escreval ("     RADAR     ")
+      Escreval ("---------------")
+      Escreva ("QUAL A VELOCIDADE REGISTRADA: ")
+      Leia (vel)
+      multa <- (vel - 80)*5
+      Se (vel > 80) entao
+         Escreval ("----------------------")
+         Escreval ("VOCê FOI MULTADO!!!")
+         Escreval ("VALOR A PAGAR: R$",multa)
+         Escreval ("----------------------")
+      Senao
+           Escreval ("-------------------------------------------")
+           Escreval ("VOCê ESTÁ DENTRO DA VELOCIDADE PERMITIDA!!!")
+           Escreval ("-------------------------------------------")
+      FimSe
+
+Fimalgoritmo
