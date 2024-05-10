@@ -1,0 +1,15 @@
+Algoritmo "12"
+Var
+   p,d: real
+Inicio
+      Escreval ("------------------------------")
+      Escreval ("           DESCONTO           ")
+      Escreval ("------------------------------")
+      Escreva ("Qual o preço do produto: R$")
+      Leia (p)
+      d <- 5/100*p
+      Escreval ("---------------------------------------------------")
+      Escreval ("O preço do produto com 5% de desconto é de:R$",p-d)
+      Escreval ("---------------------------------------------------")
+
+Fimalgoritmo
