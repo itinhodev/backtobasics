@@ -1,3 +1,6 @@
+//Código que lê uma distância em metros e mostra os valores em KM, HM, DAM, DM, CM e MM
+
+Algoritmo "8"
 Var
    m,km,hm,dam,dm,cm,mm: real
 Inicio
