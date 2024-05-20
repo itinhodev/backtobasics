@@ -1,0 +1,15 @@
+//Código que lê um número e diz se ele é bissexto
+
+Algoritmo "21"
+Var
+   ano: inteiro
+Inicio
+      Escreval ("------------------------------")
+      Escreval ("-----------BISSEXTO-----------")
+      Escreval ("------------------------------")
+      Escreva ("Digite o ano: ")
+      Leia (ano)
+      Se (ano mod 400 = 0) ou ((ano mod 4 = 0) e (ano mod 100 <> 0)) entao
+         Escreva (ano," é BISSEXTO!")
+      FimSe
+Fimalgoritmo
