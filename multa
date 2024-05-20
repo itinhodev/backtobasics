@@ -1,3 +1,5 @@
+//Código que pergunta a velocidade do carro, caso ultrapasse 80km/h avisa que o usuário foi multado e exibe o valor da multa que é de R$5 por cada km acima da velocidade
+
 Algoritmo "17"
 Var
    vel,multa: real
