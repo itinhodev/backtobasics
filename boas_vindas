@@ -1,3 +1,5 @@
+//Código que lê o nome de uma pessoa e dá as boas vindas
+
 Algoritmo "2"
 Var
    nome: caractere
