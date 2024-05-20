@@ -1,3 +1,5 @@
+//Código que calcula a redução no tempo de vida de um fumante. Pergunta a quantidade de cigarros fumados por dia e a quantos anos ele fuma, considerando que cada cigarro fumado reduz o tempo de vida em 10min, mostre quantos dias dele perdeu no final
+
 Algoritmo "16 DESAFIO"
 Var
    cigarrosdia,anosfumante,cigarrosano,ano: inteiro
