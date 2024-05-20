@@ -1,3 +1,5 @@
+//Código que lê o nome e salário de um funcionário e mostra no final
+
 Algoritmo "3"
 Var
    nome: caractere
