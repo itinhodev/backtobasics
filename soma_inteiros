@@ -1,3 +1,5 @@
+//Código que lê dois números inteiros e mostra a soma entre eles
+
 Algoritmo "4"
 Var
    n1,n2,s: inteiro
