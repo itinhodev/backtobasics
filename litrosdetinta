@@ -1,3 +1,5 @@
+//Código que lê a altura e a largura de uma parede e calcula a área a ser pintada e a quantidade de litros de tinta necessários, levando em consideração que cada litro de tinta pinta uma área de 2 metros quadrados
+
 Algoritmo "10"
 Var
    larg,alt,mq,tinta: real
