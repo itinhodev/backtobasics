@@ -1,3 +1,5 @@
+//Código que lê o valor em reais e converte em dólar
+
 Algoritmo "9"
 Var
    r,d: real
