@@ -1,3 +1,5 @@
+//Código que colhe a quantidade de dias alugados de um carro, os km rodados e mostra no final quanto o cliente vai pagar, levando em consideração que cada dia alugado custa R$90 e cada km rodado custa R$0,20
+
 Algoritmo "14"
 Var
    dias,diast,km,kmt,total: real
