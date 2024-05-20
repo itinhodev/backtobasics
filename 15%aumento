@@ -1,3 +1,5 @@
+//Código que lê o salário de um funcionário e exibe o novo com 15% de aumento
+
 Algoritmo "13"
 Var
    sal,promo: real
