@@ -1,3 +1,5 @@
+//Código que le o nome e as duas notas de um aluno, ao final mostra a análise da média e se ele teve ou não um bom aproveitamento (média acima de 7.0)
+
 Algoritmo "19"
 Var
    n1,n2,m: real
