@@ -1,0 +1,18 @@
+//Código que lê o ano de nascimento de uma pessoa, caso seja menor de 18, informa quantos anos faltam para se alistar, caso tenha passado de 18, informa quantos anos se passaram do alistamento
+
+Algoritmo "22"
+Var
+   ano, idade: inteiro
+Inicio
+      Escreval ("-----------------------------------------")
+      Escreval ("-----------ALISTAMENTO MILITAR-----------")
+      Escreval ("-----------------------------------------")
+      Escreva ("Digite o ano de nascimento: ")
+      Leia (ano)
+      idade <- 2024-ano
+      Se (idade < 18) entao
+         Escreva ("Faltam", 18-idade," anos para se alistar!")
+      Senão
+           Escreva ("Já se passaram", idade-18," anos do alistamento!")
+      FimSe
+Fimalgoritmo
