@@ -1,4 +1,4 @@
-//Código que lê o valor de A, B e C de uma equação de 2° grau e mostra o valor de delta
+//Desenvolva uma lógica que leia os valores de A, B e C de uma equação do segundo grau e mostre o valor de delta.
 
 Algoritmo "11"
 Var
