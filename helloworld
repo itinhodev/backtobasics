@@ -1,8 +1,7 @@
-//Código que mostra na tela "Olá Mundo!"
+//Escreva um programa que mostre na tela a mensagem "Olá, mundo"
 
 Algoritmo "1"
 Var
-
 Inicio
       Escreval ("------------------")
       Escreval ("-   OLÁ MUNDO!   -")
