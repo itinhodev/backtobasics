@@ -1,4 +1,4 @@
-//Código que lê o valor de um produto e mostra seu valor promocional com 5% de desconto
+//Crie um programa que leia o preço de um produto, calcule e mostre o PREÇO PROMOCIONAL, com 5% de desconto.
 
 Algoritmo "12"
 Var
