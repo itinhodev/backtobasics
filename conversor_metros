@@ -1,4 +1,4 @@
-//Código que lê uma distância em metros e mostra os valores em KM, HM, DAM, DM, CM e MM
+//Desenvolva um programa que leia uma distância em metros e mostre os valores relativos em outras medidas: KM, HM, DAM, DM, CM, MM
 
 Algoritmo "8"
 Var
