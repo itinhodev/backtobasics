@@ -1,4 +1,4 @@
-//Código que lê o ano de nascimento de uma pessoa, caso seja menor de 18, informa quantos anos faltam para se alistar, caso tenha passado de 18, informa quantos anos se passaram do alistamento
+//Escreva um programa que leia o ano de nascimento de um rapaz e mostre a sua situação em relação ao alistamento militar. Se estiver antes dos 18 anos, mostre quantos anos faltam para o alistamento. Se já tiver passado dos 18 anos, mostre quantos anos já se passaram do alistamento.
 
 Algoritmo "22"
 Var
