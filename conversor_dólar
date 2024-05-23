@@ -1,4 +1,4 @@
-//Código que lê o valor em reais e converte em dólar
+//Faça um algoritmo que leia quanto dinheiro uma pessoa tem na carteira (em R$) e mostre quantos dólares ela pode comprar.
 
 Algoritmo "9"
 Var
