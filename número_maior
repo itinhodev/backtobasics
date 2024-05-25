@@ -1,0 +1,23 @@
+//Escreva um algoritmo que leia dois números inteiros e compare-os, mostrando na tela uma das mensagens a seguir: O primeiro valor é maior. O segundo valor é maior. Não existe valor maior, os dois são iguais.
+
+Algoritmo "26"
+Var
+   N1,N2: inteiro
+Inicio
+      Escreval ("--------------------")
+      Escreval ("    NÚMERO MAIOR    ")
+      Escreval ("--------------------")
+      Escreva("INFORME O PRIMEIRO NÚMERO: ")
+      Leia (N1)
+      Escreva("INFORME O SEGUNDO NÚMERO: ")
+      Leia (N2)
+      Se (N1 > N2) entao
+         Escreva ("O PRIMEIRO NÚMERO É MAIOR")
+      Fimse
+         Se (N2 > N1) entao
+            Escreva ("O SEGUNDO NÚMERO É MAIOR")
+         FimSe
+            Se (N1 = N2) entao
+               Escreva ("NÃO EXISTE VALOR MAIOR, OS DOIS SÃO IGUAIS")
+            FimSe
+Fimalgoritmo
